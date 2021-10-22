@@ -1,3 +1,3 @@
-function changeSocialMediaLinks(){
+function getGithubProfileInfos(){
   
 }
