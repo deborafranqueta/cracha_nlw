@@ -17,7 +17,7 @@ body {
 }
 
 main{
-  background: url(./images/background.png) no-repeat center/cover;
+  background: url(./images/Mobile.svg) no-repeat center/cover;
   width: 100vw;
   min-height: 812px;
   height: 10vh;
@@ -82,13 +82,5 @@ ul{
   justify-content: center;
 }
 
-@media (min-width: 720px) {
-	/* estilos versão tablet */
-}
-
-@media (min-width: 960px) {
-	/* estilos versão desktop */
-}
-```
 
 
