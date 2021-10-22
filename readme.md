@@ -1,5 +1,5 @@
 
-# Seja Bem vindos  
+# Sejam Bem vindos  :D
 
  
 
