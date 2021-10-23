@@ -14,7 +14,7 @@
 
 https://deborafranqueta.github.io/cracha_nlw/
 
-![image](https://user-images.githubusercontent.com/72817900/138532537-d66b53c4-ed81-40ab-8f5e-bbfc4658473d.png)
+![image](https://user-images.githubusercontent.com/72817900/138534395-e3b961dd-8865-413f-b3c9-60bbaf18f0c3.png)
 
 ----------------------------------------------------------------------------------
 
